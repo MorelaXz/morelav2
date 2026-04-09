@@ -1,0 +1,2162 @@
+{
+  "120363410518791915@g.us": {
+    "id": "120363410518791915@g.us",
+    "addressingMode": "lid",
+    "subject": "yooossshh",
+    "subjectOwner": "66968354178@s.whatsapp.net",
+    "subjectOwnerLid": "184890456801391@lid",
+    "subjectTime": 1774294985,
+    "size": 5,
+    "creation": 1774294985,
+    "owner": "66968354178@s.whatsapp.net",
+    "ownerLid": "184890456801391@lid",
+    "ownerCountry": "TH",
+    "descOwner": "",
+    "descOwnerLid": "",
+    "restrict": false,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "66968354178@s.whatsapp.net",
+        "lid": "184890456801391@lid",
+        "admin": "superadmin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "247244825608361@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "25753295020175@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "16849777475723@lid",
+        "admin": null
+      },
+      {
+        "id": "584268025242@s.whatsapp.net",
+        "lid": "52730068480183@lid",
+        "admin": "admin"
+      }
+    ],
+    "name": "yooossshh",
+    "goodbye": true,
+    "selfmode": true,
+    "antilink": false,
+    "antibot": false,
+    "antimention": false,
+    "jadwalbola": {
+      "active": false
+    },
+    "welcome": true,
+    "intro": false,
+    "mute": false,
+    "warns": {
+      "3574117433471@lid": {
+        "count": 2,
+        "updatedAt": 1775551102459
+      }
+    },
+    "antivirtex": false
+  },
+  "120363408081312084@g.us": {
+    "id": "120363408081312084@g.us",
+    "addressingMode": "lid",
+    "subject": "Apocalypse",
+    "subjectOwner": "601117633607@s.whatsapp.net",
+    "subjectOwnerLid": "80492703547507@lid",
+    "subjectTime": 1774095905,
+    "size": 43,
+    "creation": 1773935159,
+    "owner": "601117633607@s.whatsapp.net",
+    "ownerLid": "80492703547507@lid",
+    "ownerCountry": "MY",
+    "descOwner": "",
+    "descOwnerLid": "",
+    "restrict": true,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": true,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "170777093611644@lid",
+        "admin": null
+      },
+      {
+        "id": "584268025242@s.whatsapp.net",
+        "lid": "52730068480183@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "274731878072540@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "226714831593640@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "190237473042627@lid",
+        "admin": null
+      },
+      {
+        "id": "601117633607@s.whatsapp.net",
+        "lid": "80492703547507@lid",
+        "admin": "superadmin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "247244825608361@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "215861398876385@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "218824892743875@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "99141434757289@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "246496779882690@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "192024313639111@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "228196628857087@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "220701726388260@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "156058257465544@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "119645726089263@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "112584581750837@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "171683147153476@lid",
+        "admin": null
+      },
+      {
+        "id": "573180681264@s.whatsapp.net",
+        "lid": "126521851301940@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "207451852927212@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "46961776398405@lid",
+        "admin": null
+      },
+      {
+        "id": "237650749095@s.whatsapp.net",
+        "lid": "18245708996679@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "238431418511597@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "252682119983264@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "39427883692250@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "230893398552609@lid",
+        "admin": null
+      },
+      {
+        "id": "60127744694@s.whatsapp.net",
+        "lid": "17700248146024@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "108766389375077@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "227551947555018@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "1113134768315@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "221010745905187@lid",
+        "admin": null
+      },
+      {
+        "id": "51934053286@s.whatsapp.net",
+        "lid": "102680420733070@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "159888781144268@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "7989075435727@lid",
+        "admin": null
+      },
+      {
+        "id": "601161614598@s.whatsapp.net",
+        "lid": "91586503426101@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "16373069656257@lid",
+        "admin": null
+      },
+      {
+        "id": "51917663291@s.whatsapp.net",
+        "lid": "121724188282972@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "123733981274298@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "269617159258313@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "235557884014669@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "165777802055833@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "77516140199954@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "67770725179627@lid",
+        "admin": "admin"
+      }
+    ],
+    "selfmode": true,
+    "name": "Apocalypse",
+    "desc": "group apocalypse"
+  },
+  "120363424488051465@g.us": {
+    "id": "120363424488051465@g.us",
+    "addressingMode": "lid",
+    "subject": "Bot wa",
+    "subjectOwner": "628xxxxxxxxxx@s.whatsapp.net",
+    "subjectOwnerLid": "196546930979009@lid",
+    "subjectTime": 1774799432,
+    "size": 56,
+    "creation": 1774799432,
+    "owner": "628xxxxxxxxxx@s.whatsapp.net",
+    "ownerLid": "196546930979009@lid",
+    "ownerCountry": "ID",
+    "desc": "Bot on 24 jam\n\nYang mau bli panel bisa pm aku aja \n1k-1gb\n2k-4gb\n3k-unli\nNo gw 628xxxxxxxxxx",
+    "descId": "11C482FB577A11E2A68E50FEB4F7757A",
+    "descOwner": "628xxxxxxxxxx@s.whatsapp.net",
+    "descOwnerLid": "277923659567209@lid",
+    "restrict": true,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "29704664936549@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "216964718969005@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "52355735257170@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "173899299954749@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "26341638451337@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "91427002433592@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "177420837621801@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "31907328835603@lid",
+        "admin": null
+      },
+      {
+        "id": "584268025242@s.whatsapp.net",
+        "lid": "52730068480183@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "154121260785719@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "109256166641896@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "75140570312879@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "257509579325489@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "241167279071277@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "199364546953445@lid",
+        "admin": null
+      },
+      {
+        "id": "923135246937@s.whatsapp.net",
+        "lid": "47640330907855@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "237684010266625@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "251436663308404@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "16583506321588@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "10763255214083@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "247244825608361@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "171446504558755@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "124395808911490@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "3574117433471@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "188244406865939@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "78052943990952@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "196546930979009@lid",
+        "admin": "superadmin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "166787136098427@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "72791474831560@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "140381442338894@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "25155740913726@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "233857244782597@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "209349624463557@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "123488933261472@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "269187360551010@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "235012624535713@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "270416056709373@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "266528977080423@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "41975369703675@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "148468647612653@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "235570517291262@lid",
+        "admin": null
+      },
+      {
+        "id": "639709721307@s.whatsapp.net",
+        "lid": "253893434937581@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "2981462290603@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "255864623628349@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "234999471161355@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "233904271282430@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "134682339471507@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "149396679319659@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "47717220933632@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "260653612855478@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "192956304724058@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "121762910048337@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "277923659567209@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "103732771557567@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "628xxxxxxxxxx@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "161504393429242@lid",
+        "admin": null
+      }
+    ],
+    "name": "Bot wa",
+    "welcome": true,
+    "goodbye": true,
+    "selfmode": true,
+    "antibot": false,
+    "warns": {
+      "75140570312879@lid": {
+        "count": 1,
+        "updatedAt": 1775203422700
+      },
+      "204599961067681@lid": {
+        "count": 0,
+        "updatedAt": 1775215392388
+      },
+      "149396679319659@lid": {
+        "count": 1,
+        "updatedAt": 1775214169577
+      },
+      "237684010266625@lid": {
+        "count": 1,
+        "updatedAt": 1775263388864
+      },
+      "270416056709373@lid": {
+        "count": 2,
+        "updatedAt": 1775265574248
+      },
+      "47717220933632@lid": {
+        "count": 1,
+        "updatedAt": 1775275528540
+      },
+      "154121260785719@lid": {
+        "count": 4,
+        "updatedAt": 1775282085748
+      },
+      "18297198276742@lid": {
+        "count": 1,
+        "updatedAt": 1775288845741
+      },
+      "83748053852311@lid": {
+        "count": 1,
+        "updatedAt": 1775284136572
+      }
+    },
+    "antilink": true,
+    "antivirtex": true
+  },
+  "120363407616884591@g.us": {
+    "id": "120363407616884591@g.us",
+    "addressingMode": "lid",
+    "subject": "ᴡᴏᴡᴏ ʙʟᴀᴄᴋ ᴡᴀʙᴏᴛ ɢʀᴏᴜᴘ",
+    "subjectOwner": "628xxxxxxxxxx@s.whatsapp.net",
+    "subjectOwnerLid": "67586226126882@lid",
+    "subjectTime": 1775047452,
+    "size": 90,
+    "creation": 1771748673,
+    "owner": "628xxxxxxxxxx@s.whatsapp.net",
+    "ownerLid": "67586226126882@lid",
+    "ownerCountry": "ID",
+    "desc": "next update gnti nama bot sama penmbhn pitur baru\n\nlink review dan download:\nhttps://youtu.be/-_fItj1DC7c?si=jgzbtTxj5ScRs5Gr\n\nSawit V1.1.0\nhttps://whatsapp.com/channel/0029Vb6Jjyf8KMqtrGJZJy0y/1129\n\nSawit V1.1.5\nhttps://whatsapp.com/channel/0029Vb6Jjyf8KMqtrGJZJy0y/1162",
+    "descId": "017613BE93C9037EA20E54089807179B",
+    "descOwner": "628xxxxxxxxxx@s.whatsapp.net",
+    "descOwnerLid": "67586226126882@lid",
+    "restrict": true,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "236425802997990@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "223192975204576@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "256787991240796@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "47292556042334@lid",
+        "admin": null
+      },
+      {
+        "id": "584268025242@s.whatsapp.net",
+        "lid": "52730068480183@lid",
+        "admin": null
+      },
+      {
+        "id": "18763192888@s.whatsapp.net",
+        "lid": "254395795161153@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "152270196986111@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "13963374927938@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "146780792582371@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "176476599124087@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "251895939637299@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "106313661034574@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "113357709418572@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "31448438431848@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "59262378184801@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "156418648862793@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "99587809357869@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "99777022824626@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "54503856423152@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "121707075481656@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "117948895244409@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "216806140731453@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "167405678526666@lid",
+        "admin": null
+      },
+      {
+        "id": "51932485515@s.whatsapp.net",
+        "lid": "262590659829833@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "247244825608361@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "26075417575601@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "150281174171787@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "132693014614082@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "50071416627275@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "138478738243788@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "94090184122398@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "209513453994139@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "217480031170584@lid",
+        "admin": null
+      },
+      {
+        "id": "51976998240@s.whatsapp.net",
+        "lid": "184203060707334@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "62277243949141@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "36181425279002@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "135030131151034@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "84671270506598@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "252626134429857@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "259768665018548@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "2182027968581@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "231886072881156@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "127414717939715@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "119645726089263@lid",
+        "admin": null
+      },
+      {
+        "id": "9779769242618@s.whatsapp.net",
+        "lid": "24241449754775@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "121719540957304@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "254297161883684@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "127058504081432@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "138367320772631@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "67586226126882@lid",
+        "admin": "superadmin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "161517311926508@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "16677609689162@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "155998178291784@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "44857125015776@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "20066708000833@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "139874367758473@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "44371961462881@lid",
+        "admin": null
+      },
+      {
+        "id": "255637351031@s.whatsapp.net",
+        "lid": "15917870223432@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "202405266366554@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "38938425172081@lid",
+        "admin": null
+      },
+      {
+        "id": "17422414935@s.whatsapp.net",
+        "lid": "171838118326525@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "177146513387710@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "61074485313775@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "148718259019918@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "230893398552609@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "103711347077363@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "270081166721147@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "269402326982692@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "263569962758266@lid",
+        "admin": null
+      },
+      {
+        "id": "2347019706826@s.whatsapp.net",
+        "lid": "154615081361611@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "159210897678562@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "160495009042482@lid",
+        "admin": null
+      },
+      {
+        "id": "923147168309@s.whatsapp.net",
+        "lid": "275857813811336@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "253974905118908@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "148864220835853@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "122978234835110@lid",
+        "admin": null
+      },
+      {
+        "id": "84908069682@s.whatsapp.net",
+        "lid": "52867540979833@lid",
+        "admin": null
+      },
+      {
+        "id": "12369011549@s.whatsapp.net",
+        "lid": "248146768719990@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "89391791894658@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "7989075435727@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "114860746633351@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "15423563104497@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "91075452649705@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "135102491308219@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "45470953005086@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "81476100042847@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "201549997461587@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "269617159258313@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "195640642539551@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "270385522176203@lid",
+        "admin": null
+      }
+    ],
+    "selfmode": false,
+    "name": "ᴡᴏᴡᴏ ʙʟᴀᴄᴋ ᴡᴀʙᴏᴛ ɢʀᴏᴜᴘ"
+  },
+  "120363407042232527@g.us": {
+    "id": "120363407042232527@g.us",
+    "addressingMode": "lid",
+    "subject": "𝙎𝙤𝙗𝙖𝙩 𝘾𝙤𝙙𝙞𝙣𝙜𝙠𝙪",
+    "subjectOwner": "628xxxxxxxxxx@s.whatsapp.net",
+    "subjectOwnerLid": "242588711973065@lid",
+    "subjectTime": 1769666005,
+    "size": 88,
+    "creation": 1769665905,
+    "owner": "628xxxxxxxxxx@s.whatsapp.net",
+    "ownerLid": "252682119983264@lid",
+    "ownerCountry": "ID",
+    "desc": "ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ 𝙎𝙤𝙗𝙖𝙩 𝘾𝙤𝙙𝙞𝙣𝙜𝙠𝙪\n\nᴀᴅᴍɪɴ ᴅɪ sɪɴɪ ʙᴀᴇᴋ ʙᴀᴇᴋ sᴇᴍᴜᴀ ʟᴇᴋ, ᴋᴇᴄᴜᴀʟɪ ʏᴀɴɢ ɴᴀᴋᴀʟ ᴅɪ ᴋɪᴄᴋ ᴀᴍᴀ ᴀᴅᴍɪɴ🥰\n\nᴏᴡɴᴇʀ: ʀᴇʏ, ᴛᴀᴋᴀ-ʟᴇᴏ\n\nʟɪsᴛ ᴀᴅᴍɪɴ: \n\nʀᴜʟᴇs\nᴊᴀɴɢᴀɴ ᴘʀᴏᴍᴏsɪ sʟᴏᴛ / ᴋɪʀɪᴍ ʟɪɴᴋ ʀ-18\nᴊᴀɴɢᴀɴ ᴋɪʀɪᴍ ʙᴇʀʙᴀᴜ ʀ-18\nᴊᴀɴɢᴀɴ ᴊᴀʜᴀᴛɪɴ ᴀᴅᴍɪɴ ᴋᴀʟᴏ ᴛᴀᴋ ᴍᴀᴜ ᴅɪ ᴋɪᴄᴋ🥰\n\nᴜᴅᴀʜ ɪᴛᴜ ᴅᴏᴀɴɢ\n\nʟɪɴᴋ ɢʀᴜᴘ: https://chat.whatsapp.com/IfNWrQza5VhEHf6wNpM1Ff",
+    "descId": "23F25034870D74ED29CAB8ECDCC1DD1B",
+    "descOwner": "628xxxxxxxxxx@s.whatsapp.net",
+    "descOwnerLid": "242588711973065@lid",
+    "restrict": true,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "165159209271535@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "380669714860@s.whatsapp.net",
+        "lid": "64648468529301@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "243903089369309@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "221169861025938@lid",
+        "admin": null
+      },
+      {
+        "id": "923089660496@s.whatsapp.net",
+        "lid": "21943541571829@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "94656935256305@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "26088201818283@lid",
+        "admin": null
+      },
+      {
+        "id": "584268025242@s.whatsapp.net",
+        "lid": "52730068480183@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "280865544351813@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "8320056328377@lid",
+        "admin": null
+      },
+      {
+        "id": "201112524216@s.whatsapp.net",
+        "lid": "234256710246613@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "247519602811016@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "255727335698515@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "190237473042627@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "251895939637299@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "157183153045704@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "275384914419889@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "28575071756492@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "77605898313906@lid",
+        "admin": null
+      },
+      {
+        "id": "224622224469@s.whatsapp.net",
+        "lid": "170437992530047@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "136829756031145@lid",
+        "admin": null
+      },
+      {
+        "id": "601117633607@s.whatsapp.net",
+        "lid": "80492703547507@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "74664298684597@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "152119235629145@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "164566621245514@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "242588711973065@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "247244825608361@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "209513453994139@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "12954326007857@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "193291328979192@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "126092253892852@lid",
+        "admin": null
+      },
+      {
+        "id": "559292678251@s.whatsapp.net",
+        "lid": "78624208212191@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "9814621069500@lid",
+        "admin": null
+      },
+      {
+        "id": "556196697514@s.whatsapp.net",
+        "lid": "129253031076013@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "81927239381235@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "2182027968581@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "123261853679797@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "215397173301499@lid",
+        "admin": null
+      },
+      {
+        "id": "93777419258@s.whatsapp.net",
+        "lid": "253979233640548@lid",
+        "admin": null
+      },
+      {
+        "id": "5215639416240@s.whatsapp.net",
+        "lid": "202083143803039@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "101515897401365@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "1941358788717@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "251393042551006@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "171683147153476@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "138367320772631@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "202791763050592@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "55864924856572@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "64880346407048@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "46961776398405@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "277665961500846@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "210780402241764@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "142447371894925@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "175845238960142@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "64910142754854@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "252682119983264@lid",
+        "admin": "superadmin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "156109880991889@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "266301561897176@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "110092997419209@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "212721459024014@lid",
+        "admin": null
+      },
+      {
+        "id": "923350963366@s.whatsapp.net",
+        "lid": "98166208725067@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "39037494669420@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "87428555616419@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "185448416731177@lid",
+        "admin": null
+      },
+      {
+        "id": "60127744694@s.whatsapp.net",
+        "lid": "17700248146024@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "122338435690603@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "112506869665806@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "108766389375077@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "173478745485353@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "259506906861767@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "227551947555018@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "129704120066077@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "37057565073490@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "248511371182162@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "244835147628634@lid",
+        "admin": null
+      },
+      {
+        "id": "84563433790@s.whatsapp.net",
+        "lid": "70549787132055@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "148391489216634@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "211523431612558@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "228707344109767@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "154619359572093@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "31804601954458@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "129459441135829@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "28008152887459@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "233466419495017@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "165777802055833@lid",
+        "admin": null
+      },
+      {
+        "id": "447427846660@s.whatsapp.net",
+        "lid": "122939831783591@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "111978974564551@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "51750748848330@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "99703823802584@lid",
+        "admin": null
+      }
+    ],
+    "name": "𝙎𝙤𝙗𝙖𝙩 𝘾𝙤𝙙𝙞𝙣𝙜𝙠𝙪",
+    "selfmode": true
+  },
+  "120363406714327168@g.us": {
+    "id": "120363406714327168@g.us",
+    "addressingMode": "lid",
+    "subject": "rzk | when yah jadi dev",
+    "subjectOwner": "628xxxxxxxxxx@s.whatsapp.net",
+    "subjectOwnerLid": "43079092457676@lid",
+    "subjectTime": 1773488576,
+    "size": 106,
+    "creation": 1768486346,
+    "owner": "628xxxxxxxxxx@s.whatsapp.net",
+    "ownerLid": "109827346956434@lid",
+    "ownerCountry": "ID",
+    "desc": "no desc yet",
+    "descId": "ILSYM-05E3F75E92F5",
+    "descOwner": "628xxxxxxxxxx@s.whatsapp.net",
+    "descOwnerLid": "43079092457676@lid",
+    "restrict": true,
+    "announce": false,
+    "isCommunity": false,
+    "isCommunityAnnounce": false,
+    "joinApprovalMode": false,
+    "memberAddMode": true,
+    "participants": [
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "46558133403859@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "218167729225846@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "99777039564819@lid",
+        "admin": null
+      },
+      {
+        "id": "584268025242@s.whatsapp.net",
+        "lid": "52730068480183@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "107142858190975@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "212799154307326@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "88760448458949@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "48078535053465@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "158489259331637@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "28575071756492@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "236477342576893@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "259652700905612@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "161628813287469@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "173525604290580@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "74664298684597@lid",
+        "admin": null
+      },
+      {
+        "id": "249128749239@s.whatsapp.net",
+        "lid": "216703095013382@lid",
+        "admin": null
+      },
+      {
+        "id": "22509970406@s.whatsapp.net",
+        "lid": "191569231618294@lid",
+        "admin": null
+      },
+      {
+        "id": "573244278232@s.whatsapp.net",
+        "lid": "127187487313954@lid",
+        "admin": null
+      },
+      {
+        "id": "51932485515@s.whatsapp.net",
+        "lid": "262590659829833@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "166430586708148@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "247244825608361@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "50231458537@s.whatsapp.net",
+        "lid": "99781166792741@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "178362173657150@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "191985642168462@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "3574117433471@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "257591066251436@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "209513453994139@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "188244406865939@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "238211922169921@lid",
+        "admin": null
+      },
+      {
+        "id": "51976998240@s.whatsapp.net",
+        "lid": "184203060707334@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "262122290290812@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "122840846196928@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "266653732438158@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "237366233063603@lid",
+        "admin": null
+      },
+      {
+        "id": "557398343428@s.whatsapp.net",
+        "lid": "73388542427239@lid",
+        "admin": null
+      },
+      {
+        "id": "584267082809@s.whatsapp.net",
+        "lid": "2238365843566@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "166787169685748@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "99141434757289@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "45115074732120@lid",
+        "admin": null
+      },
+      {
+        "id": "601127655330@s.whatsapp.net",
+        "lid": "2848049901757@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "119645726089263@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "55808989618344@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "74161821069489@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "166318934351971@lid",
+        "admin": null
+      },
+      {
+        "id": "84779390333@s.whatsapp.net",
+        "lid": "265300817797262@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "1619672453341@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "241699938902079@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "127058504081432@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "210119128272902@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "250195166142590@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "46961776398405@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "277665961500846@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "210780402241764@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "110123582259315@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "90972155338873@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "141395255890029@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "32608096391285@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "83335636332559@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "259584132444225@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "105175595364601@lid",
+        "admin": null
+      },
+      {
+        "id": "66968354178@s.whatsapp.net",
+        "lid": "184890456801391@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "149620151844880@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "55573135519795@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "37478471880818@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "224012609290286@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "38702537506961@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "15350900994050@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "232560147857434@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "151368119615689@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "166245332689091@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "117815918997572@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "26874197635129@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "187338202329281@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "108766389375077@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "182425028161684@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "21513558323231@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "33024641134619@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "76678806167596@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "197921018507346@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "7989075435727@lid",
+        "admin": null
+      },
+      {
+        "id": "601161614598@s.whatsapp.net",
+        "lid": "91586503426101@lid",
+        "admin": null
+      },
+      {
+        "id": "213781337203@s.whatsapp.net",
+        "lid": "51269729296484@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "273920599044344@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "48147321602112@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "253545441964182@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "228707344109767@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "15471176876185@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "185740759711859@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "160280361332984@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "221186571157687@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "268354455617630@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "133707314790421@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "261628603953184@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "54254614126789@lid",
+        "admin": null
+      },
+      {
+        "id": "2250701497833@s.whatsapp.net",
+        "lid": "226302514708560@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "281235163189418@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "81476100042847@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "32376134594707@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "200506840473775@lid",
+        "admin": null
+      },
+      {
+        "id": "447427846660@s.whatsapp.net",
+        "lid": "122939831783591@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "178808766333161@lid",
+        "admin": null
+      },
+      {
+        "id": "2347079032014@s.whatsapp.net",
+        "lid": "240716458545337@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "243211750617179@lid",
+        "admin": "admin"
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "1894785232999@lid",
+        "admin": null
+      },
+      {
+        "id": "628xxxxxxxxxx@s.whatsapp.net",
+        "lid": "152781079998552@lid",
+        "admin": null
+      },
+      {
+        "id": "584264926000@s.whatsapp.net",
+        "lid": "64304988569671@lid",
+        "admin": null
+      }
+    ],
+    "ephemeralDuration": 604800,
+    "name": "rzk | when yah jadi dev",
+    "selfmode": true
+  }
+}

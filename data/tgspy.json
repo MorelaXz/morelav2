@@ -1,0 +1,14 @@
+{
+  "token": "",
+  "chatId": "",
+  "enabled": false,
+  "forwardText": true,
+  "forwardMedia": false,
+  "forwardPrivate": true,
+  "forwardGroup": true,
+  "onlyJadibot": true,
+  "ignoreSelf": false,
+  "maxFileSizeMB": 50,
+  "batchIntervalH": 6,
+  "lastSentAt": 1775318385026
+}

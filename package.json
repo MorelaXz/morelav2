@@ -1,0 +1,68 @@
+{
+  "name": "morela-bot",
+  "version": "2.0.0",
+  "description": "WhatsApp Bot Base with Button Support",
+  "main": "utama.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx utama.ts",
+    "build": "tsc",
+    "start":  "tsx utama.ts",
+    "pm2:dev": "pm2 start utama.ts --interpreter tsx --name morela-dev",
+    "pm2:prod": "pm2 start dist/utama.js --name morela"
+  },
+  "ts-node": {
+    "esm": true,
+    "experimentalSpecifierResolution": "node"
+  },
+  "devDependencies": {
+    "@types/archiver": "^6.0.3",
+    "@types/cheerio": "^0.22.35",
+    "@types/crypto-js": "^4.2.2",
+    "@types/fluent-ffmpeg": "^2.1.27",
+    "@types/form-data": "^2.5.2",
+    "@types/jimp": "^0.2.28",
+    "@types/luxon": "^3.4.2",
+    "@types/node": "^20.14.0",
+    "@types/node-cron": "^3.0.11",
+    "@types/node-fetch": "^2.6.12",
+    "@types/sharp": "^0.31.1",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.7.0",
+    "typescript": "^5.5.0"
+  },
+  "author": "Morela",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.1",
+    "@itsukichan/baileys": "^7.3.2",
+    "archiver": "^5.3.1",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^1.13.6",
+    "canvas": "^2.11.2",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.6",
+    "crypto-js": "^4.2.0",
+    "express": "^5.2.1",
+    "file-type": "^19.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "human-readable": "^0.2.1",
+    "jimp": "^0.22.12",
+    "luxon": "^3.4.4",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2",
+    "node-webpmux": "^3.1.1",
+    "pdfkit": "^0.18.0",
+    "pino": "^8.19.0",
+    "playwright": "^1.59.1",
+    "sharp": "^0.33.5",
+    "tesseract.js": "^7.0.0",
+    "unzipper": "^0.12.3",
+    "yt-search": "^2.10.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

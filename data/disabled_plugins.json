@@ -1,0 +1,34 @@
+{
+  "brattren": {
+    "disabledAt": 1775336118795,
+    "reason": "API sedang bermasalah"
+  },
+  "bratruromiya": {
+    "disabledAt": 1775336154973,
+    "reason": "API sedang bermasalah"
+  },
+  "cekkey": {
+    "disabledAt": 1775336361561,
+    "reason": "API sedang bermasalah"
+  },
+  "fakedev": {
+    "disabledAt": 1775336426622,
+    "reason": "API sedang bermasalah"
+  },
+  "fakeml": {
+    "disabledAt": 1775336434164,
+    "reason": "API sedang bermasalah"
+  },
+  "fakeff": {
+    "disabledAt": 1775336461400,
+    "reason": "API sedang bermasalah"
+  },
+  "fakeffduo": {
+    "disabledAt": 1775336467232,
+    "reason": "API sedang bermasalah"
+  },
+  "musiccard": {
+    "disabledAt": 1775336479785,
+    "reason": "API sedang bermasalah"
+  }
+}
