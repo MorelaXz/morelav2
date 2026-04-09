@@ -30,7 +30,7 @@ export const BOT_JID     = '13135550002@s.whatsapp.net'
 export const imagePath    = path.join(process.cwd(), 'media/menu.jpg')
 export const fkontakPath  = path.join(process.cwd(), 'media/fkontak.jpg')
 export const botName     = global.botName    || 'Morela'
-export const botVersion  = global.botVersion || 'v3.0.0'
+export const botVersion  = global.botVersion || 'v2.0.0'
 export const ownerName   = global.ownerName  || 'putraa'
 
 
