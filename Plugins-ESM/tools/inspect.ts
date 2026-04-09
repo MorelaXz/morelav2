@@ -12,17 +12,17 @@ function tokenizeCode(code: string): { highlightType: number; codeContent: strin
 
   for (const tok of tokens) {
     if (tok.startsWith('//') || tok.startsWith('/*')) {
-      blocks.push({ highlightType: 2, codeContent: tok }) 
+      blocks.push({ highlightType: 2, codeContent: tok })
     } else if (/^["'`]/.test(tok)) {
-      blocks.push({ highlightType: 3, codeContent: tok }) 
+      blocks.push({ highlightType: 3, codeContent: tok })
     } else if (tok.startsWith('http')) {
-      blocks.push({ highlightType: 3, codeContent: tok }) 
+      blocks.push({ highlightType: 3, codeContent: tok })
     } else if (TS_KEYWORDS.has(tok.toLowerCase())) {
-      blocks.push({ highlightType: 1, codeContent: tok }) 
+      blocks.push({ highlightType: 1, codeContent: tok })
     } else if (/^\d+$/.test(tok) || tok.includes('@s.whatsapp.net')) {
-      blocks.push({ highlightType: 4, codeContent: tok }) 
+      blocks.push({ highlightType: 4, codeContent: tok })
     } else {
-      blocks.push({ highlightType: 0, codeContent: tok }) 
+      blocks.push({ highlightType: 0, codeContent: tok })
     }
   }
 
