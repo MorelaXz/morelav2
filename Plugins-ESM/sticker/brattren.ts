@@ -5,8 +5,8 @@ import axios from 'axios'
 import ffmpeg from 'fluent-ffmpeg'
 import { bi, buildFkontak, sendCard, uploadImage, createSend, menuBuf, CHANNEL_URL, OWNER_WA, BOT_JID, imagePath, botName, botVersion } from '../../Library/utils.js'
 
-const API_URL = 'https://kazztzyy.my.id'
-const API_KEY = 'YOUR_TOKEN_HERE'
+const API_URL = 'https://api-evelyne.vercel.app'
+const API_KEY = 'FreeLimit'
 
 const TMP = path.join(process.cwd(), 'media', 'brat')
 if (!fs.existsSync(TMP)) fs.mkdirSync(TMP, { recursive: true })
