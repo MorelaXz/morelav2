@@ -88,6 +88,14 @@ pm2 monit           # dashboard
 
 ---
 
+## 📄 License
+
+```
+MIT License — Copyright (c) 2026 Morela Bot — putraa
+```
+
+---
+
 <div align="center">
 
 **Built with 🔥 by [putraa](https://wa.me/628999889149)**
