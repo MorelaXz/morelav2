@@ -13,6 +13,15 @@
 
 ---
 
+## 📥 Clone
+
+```bash
+git clone https://github.com/MorelaXz/morelav2
+cd morelav2
+```
+
+---
+
 ## ⚙️ Install
 
 ```bash
