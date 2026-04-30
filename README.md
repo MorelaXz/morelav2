@@ -410,7 +410,7 @@ const handler = async (m, { Morela, fkontak, args, text, sender, pushname, isOwn
   await Morela.sendMessage(m.chat, { text: 'halo!' }, { quoted: fkontak })
 }
 
-handler.command  = /^(ping|p)$/i
+handler.command  = ['ping', 'p']   // array of strings, BUKAN regex
 handler.help     = ['ping']
 handler.tags     = ['tools']
 handler.noLimit  = false   // opsional, jika true tidak kena rate limit
@@ -420,6 +420,8 @@ handler.group    = false   // opsional, jika true hanya di grup
 handler.private  = false   // opsional, jika true hanya di PM
 export default handler
 ```
+
+> **PENTING** — `handler.command` harus selalu **array of strings**. Plugin manager memanggil `.toLowerCase()` pada setiap item saat registrasi. Kalau diisi regex atau tipe lain, plugin gagal load dengan error `c.toLowerCase is not a function`.
 
 Context yang tersedia di handler:
 
